@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#handcrafted:couches",
+	"#handcrafted:benches",
+	"#handcrafted:dining_benches",
+	"#handcrafted:chairs"
+  ]
+}
