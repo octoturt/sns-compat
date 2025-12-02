@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#handcrafted:drawers",
+	"#handcrafted:cupboards",
+	"#handcrafted:counters",
+	"#handcrafted:nightstands"
+  ]
+}
