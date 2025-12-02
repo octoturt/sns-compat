@@ -4,6 +4,7 @@
     "#sns_compat:toggleable",
 	"#sns_compat:sign",
 	"#sns_compat:mountable",
-	"#sns_compat:container"
+	"#sns_compat:container",
+	"#sns_compat:workstation"
   ]
 }

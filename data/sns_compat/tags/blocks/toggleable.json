@@ -14,6 +14,8 @@
     "#mcwlights:tiki_torches",
     "#mcwlights:soul_tiki_torches",
     "blue_skies:crystallized_trapdoor",
+	"blue_skies:turquoise_lever",
+	"blue_skies:lunar_lever",
     "create:train_trapdoor",
     "create:framed_glass_trapdoor",
     "create:powered_latch",
