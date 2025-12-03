@@ -1,20 +1,20 @@
 {
   "replace": false,
   "values": [
-	"#blue_skies:crafting_tables",
-	"blue_skies:snowcap_oven",
-	"blue_skies:horizonite_forge",
-	"blue_skies:tool_box",
-	"blue_skies:summoning_table",
-	"blue_skies:alchemy_table",
-	"blue_skies:food_prep_table",
-	"irons_spellbooks:inscription_table",
-	"irons_spellbooks:scroll_forge",
-	"irons_spellbooks:arcane_anvil",
-	"create:track_station",
-	"create:schematicannon",
-	"exposure:lightroom",
-	"supplementaries:notice_board",
-	"supplementaries:pulley_block"
+    "#blue_skies:crafting_tables",
+    "blue_skies:snowcap_oven",
+    "blue_skies:horizonite_forge",
+    "blue_skies:tool_box",
+    "blue_skies:summoning_table",
+    "blue_skies:alchemy_table",
+    "blue_skies:food_prep_table",
+    "irons_spellbooks:inscription_table",
+    "irons_spellbooks:scroll_forge",
+    "irons_spellbooks:arcane_anvil",
+    "create:track_station",
+    "create:schematicannon",
+    "exposure:lightroom",
+    "supplementaries:notice_board",
+    "supplementaries:pulley_block"
   ]
 }

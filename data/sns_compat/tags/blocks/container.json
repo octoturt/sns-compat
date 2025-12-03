@@ -2,13 +2,13 @@
   "replace": false,
   "values": [
     "#handcrafted:storage",
-	"#farmersdelight:cabinet",
-	"#supplementaries:presents",
-	"#forge:chests",
-	"#create:postboxes",
-	"handcrafted:oven",
-	"supplementaries:safe",
-	"farmersdelight:cooking_pot",
-	"farmersdelight:basket"
+    "#farmersdelight:cabinet",
+    "#supplementaries:presents",
+    "#forge:chests",
+    "#create:postboxes",
+    "handcrafted:oven",
+    "supplementaries:safe",
+    "farmersdelight:cooking_pot",
+    "farmersdelight:basket"
   ]
 }
