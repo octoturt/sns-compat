@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "blue_skies:cobblestone"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "minecraft:gravel"
+    }
+  ]
+}
